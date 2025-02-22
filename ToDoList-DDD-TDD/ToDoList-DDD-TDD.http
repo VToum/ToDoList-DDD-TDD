@@ -1,0 +1,6 @@
+@ToDoList_DDD_TDD_HostAddress = http://localhost:5200
+
+GET {{ToDoList_DDD_TDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
